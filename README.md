@@ -3,3 +3,4 @@
  ## Resources
  Favicons from [favicon.io](https://favicon.io/favicon-converter/)
  Weather from [OpenWeatherMap](https://openweathermap.org/)
+ Video code from Colin Manikoth
