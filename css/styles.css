@@ -3,8 +3,9 @@
   /* Set your own grid   */
   display: grid;
   grid-template-columns: 400px;
-  grid-template-rows: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 200px);
   grid-column-gap: 0px;
+  grid-row-gap: 0px;
 }
 
 /* Widgets */
@@ -16,13 +17,15 @@ section {
   position: relative;
 }
 h1{
-  font-family: 'Array-Bold';
-  font-size: 40px;
+  font-family: 'Bevellier-Regular';
+  font-size: 45px;
 }
 
 /* Time */
 .time {
+  font-family: 'Chillax-Regular';
   color: white;
+  font-size: 25px;
 }
 
 .hours {
@@ -40,7 +43,9 @@ h1{
 
 /* Date */
 .date {
+  font-family: 'Chillax-Regular';
   color: white;
+  font-size: 25px;
 }
 
 .month {
@@ -57,15 +62,19 @@ h1{
 
 /* Weather */
 .weather {
+  font-family: 'Chillax-Regular';
   color: white;
+  font-size: 25px;
 }
 
 .city {
-  
+  font-family: 'Chillax-Semibold';
+  font-size: 35px;
 }
 
 .temp {
-  
+  font-family: 'Chillax-Medium';
+  font-size: 30px;
 }
 
 .weather img {
