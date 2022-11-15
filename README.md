@@ -5,3 +5,4 @@
  Weather from [OpenWeatherMap](https://openweathermap.org/)
  Video code from Colin Manikoth
  Font from [Font Share](https://www.fontshare.com/fonts/bevellier)
+ Font2 from [Font Share](https://www.fontshare.com/fonts/chillax)
