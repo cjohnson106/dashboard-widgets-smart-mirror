@@ -5,8 +5,8 @@ body{
 .layout {
   /* Set your own grid   */
   display: grid;
-  grid-template-columns: 400px;
-  grid-template-rows: repeat(3, 200px);
+  grid-template-columns: repeat(2, 400px);
+  grid-template-rows: 350px;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
 }
@@ -20,6 +20,7 @@ section {
   position: relative;
 }
 h1{
+  color: black;
   font-family: 'Bevellier-Regular';
   font-size: 45px;
 }
@@ -81,7 +82,7 @@ h1{
 }
 
 .weather img {
-  
+  background: rgb(165, 163, 163, 0.5);
 }
 video {
   /*  display: none;  */
